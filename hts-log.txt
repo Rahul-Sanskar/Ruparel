@@ -1,0 +1,13 @@
+HTTrack3.49-23 launched on Fri, 18 Sep 2026 11:10:58 at https://ruparelariana.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "en, *" https://ruparelariana.com/ -O1 "C:\My Web Sites\Ruparel" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:11:11	Error: 	"Not Found" (404) at link https://ruparelariana.com/images/logo.png (from https://ruparelariana.com/)
+11:11:11	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://ruparelariana.com/privacypolicy.html)
+
+HTTrack Website Copier/3.49-23 mirror complete in 13 seconds : 49 links scanned, 46 files written (4054914 bytes overall) [4015187 bytes received at 308860 bytes/sec], 89852 bytes transferred using HTTP compression in 7 files, ratio 27%, 8.1 requests per connection
+(2 errors, 0 warnings, 0 messages)
